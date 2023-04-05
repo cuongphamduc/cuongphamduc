@@ -1,6 +1,6 @@
-<!-- <p align="center"> 
-  <img src="">
-</p> -->
+<p align="center"> 
+  <img lt="GIF" src="https://imgur.com/Pvqbsw1?raw=true" height="300" />
+</p>
 <h1 align="center"> 
   🖐Hi, I'm Cuong, welcome to my git! <height="60"> 
 </h1>
