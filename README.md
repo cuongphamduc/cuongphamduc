@@ -10,12 +10,12 @@
   
 | My Github Stats             | My most used languages |
 :-:|:-:
-[![Stats](https://github-readme-stats.vercel.app/api?username=vovod&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/vovod)|[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovod&layout=compact&theme=radical&hide=c%2b%2b)](https://github.com/vovod)
+[![Stats](https://github-readme-stats.vercel.app/api?username=cuongphamduc&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/cuongphamduc)|[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongphamduc&layout=compact&theme=radical&hide=c%2b%2b)](https://github.com/cuongphamduc)
 </table>
   </div>
      
 ###
-[![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=vovod&theme=react-dark)](https://github.com/vovod)  
+[![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=cuongphamduc&theme=react-dark)](https://github.com/cuongphamduc)  
 <!-- ### My trophy:  
    
-![rank](https://github-profile-trophy.vercel.app/?username=vovod&theme=dracula) -->
+![rank](https://github-profile-trophy.vercel.app/?username=cuongphamduc&theme=dracula) -->
