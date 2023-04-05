@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img alt="GIF" src="https://imgur.com/Pvqbsw1?raw=true" height="300" />
+  <img alt="GIF" src="https://github.com/cuongphamduc/cuongphamduc/blob/main/Dino_Skate_Thumb.gif?raw=true" height="300" />
 </p>
 <h1 align="center"> 
   🖐Hi, I'm Cuong, welcome to my git! <height="60"> 
