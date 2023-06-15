@@ -15,7 +15,6 @@
   </div>
      
 ###
-[![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=cuongphamduc&theme=react-dark)](https://github.com/cuongphamduc)  
 ### My trophy:  
    
 ![rank](https://github-profile-trophy.vercel.app/?username=cuongphamduc&theme=dracula)
