@@ -1,6 +1,3 @@
-<p align="center"> 
-  <img alt="PNG" src="https://github.com/cuongphamduc/cuongphamduc/blob/main/ai_logo.png?raw=true" height="300" />
-</p>
 <h1 align="center"> 
   🖐Hi, I'm Cuong, Welcome to my Git! <height="60"> 
 </h1>
