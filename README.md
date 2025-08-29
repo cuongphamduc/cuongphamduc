@@ -14,4 +14,4 @@
 ###
 ### My trophy:  
    
-![rank](https://github-profile-trophy.vercel.app/?username=cuongphamduc&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?cuongphamduc=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
